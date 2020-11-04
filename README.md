@@ -1,0 +1,1 @@
+Table editing is an important part of many Web pages because tables are used to create the page layout.
